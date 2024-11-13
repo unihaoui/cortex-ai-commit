@@ -22,7 +22,7 @@ Screens how to use 👇
 <ul>
     <li>Generate meaningful, conventional commit messages with a single click</li>
     <li>Generate commits in English, German, Spanish, Italian, Portuguese, Polish, Dutch, Russian, Ukrainian, Turkish, Korean, Japanese, and Chinese</li>
-    <li>Support for Conventional Commits and Gitmoji styles</li>
+    <li>Support for <kbd>Conventional Commits</kbd>, <kbd>Angular</kbd> and <kbd>Gitmoji</kbd> styles</li>
     <li>AI understands your code changes and generates appropriate descriptions</li>
     <li>Choose between concise or detailed commit messages</li>
 </ul>
