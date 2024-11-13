@@ -10,7 +10,7 @@
   <kbd>Install Plugin</kbd>
 
 <h3>How to get Claude API Key</h3>
-<kbd>Visit [console.anthropic.com](https://console.anthropic.com/) </kbd> <kbd>Sign in or Create acc</kbd> > <kbd>Go to API Keys Section</kbd> > <kbd>Create new key</kbd> >
+<kbd>Visit <a href="https://console.anthropic.com/" target="_blank">console.anthropic.com</a></kbd> <kbd>Sign in or Create acc</kbd> > <kbd>Go to API Keys Section</kbd> > <kbd>Create new key</kbd> >
 <kbd>Paste to Setting</kbd>
 
 <h3>How to configure</h3>
