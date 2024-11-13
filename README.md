@@ -5,11 +5,16 @@
 
 <p>Cortex AI Commit is a powerful IntelliJ plugin that revolutionizes your Git commit process using Claude AI. Never struggle with writing commit messages again!</p>
 
+
+[![Get from marketplace](assets/get-from-marketplace.svg)](https://plugins.jetbrains.com/plugin/25822-cortex-ai-commit--claude-powered)
+
 <h3>How to install</h3>
   <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Cortex AI Commit"</kbd> >
   <kbd>Install Plugin</kbd>
 
 <a href="#">Download Plugin from JetBrains Marketplace</a>
+
+
 
 <h3>How to get Claude API Key</h3>
 <kbd>Visit <a href="https://console.anthropic.com/" target="_blank">console.anthropic.com</a></kbd> <kbd>Sign in or Create acc</kbd> > <kbd>Go to API Keys Section</kbd> > <kbd>Create new key</kbd> >
