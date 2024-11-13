@@ -1,1 +1,1 @@
-![plugin_thumb](assets/thumb.svg)
+<img src="assets/thumb.svg" width="100%" alt="Unihaoui Cortex AI Commit IntelliJ Platform Plugin Thumb">
