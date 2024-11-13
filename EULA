@@ -1,0 +1,105 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+FOR CORTEX AI COMMIT JETBRAINS PLUGIN
+
+IMPORTANT - READ CAREFULLY
+This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity)
+and UNIHAOUI ("Licensor") for the Cortex AI Commit plugin software designed for JetBrains products, including any associated
+media, printed materials, and electronic documentation (collectively, the "Software").
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement.
+If you do not agree to the terms of this Agreement, do not install or use the Software.
+
+DEFINITIONS
+
+"Software" means the Cortex AI Commit plugin software provided with this Agreement.
+"JetBrains" means JetBrains s.r.o. and its licensors, if any.
+"External API" means the Anthropic Claude AI API service.
+"Licensor" means UNIHAOUI.
+"You" means the licensee of the Software.
+
+GRANT OF LICENSE
+
+2.1. Installation and Use
+
+You may install and use the Software on any number of computers
+You may use the Software with any compatible JetBrains product
+You may use the Software for both personal and commercial purposes
+Usage is free of charge, but requires a valid Claude API key
+
+
+API INTEGRATION AND DATA PROCESSING
+
+3.1. External API Requirements
+
+You must provide your own valid Claude API key to use the Software
+You are responsible for any costs associated with your Claude API usage
+The Licensor is not responsible for the availability or functionality of the External API
+
+3.2. Data Processing
+
+The Software processes git diff data of staged files through the Claude API
+No data is stored by the Software or the Licensor
+All processing is done through secure API calls
+No history of interactions is maintained
+
+3.3. Data Security
+
+API keys are stored securely using JetBrains' built-in credential storage
+The Licensor does not have access to your API keys
+No usage data or analytics are collected
+
+
+TECHNICAL SUPPORT AND UPDATES
+
+4.1. Support
+
+Technical support is provided through the project's issue tracker
+The Licensor will make reasonable efforts to address reported issues
+Support is provided on a best-effort basis
+
+4.2. Updates
+
+Software updates will be made available through JetBrains Marketplace
+Updates may be provided to improve functionality or fix issues
+You are responsible for keeping the Software updated
+
+
+RESTRICTIONS
+
+You may not:
+
+Modify, reverse engineer, decompile, or disassemble the Software
+Create derivative works based on the Software
+Remove or alter any proprietary notices in the Software
+Use the Software for any illegal purposes
+
+
+INTELLECTUAL PROPERTY
+
+6.1. Ownership
+
+The Software is protected by copyright laws and international treaties
+All intellectual property rights remain with the Licensor
+The Software is licensed, not sold
+
+
+WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS
+INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE
+LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of Poland.
+
+CONTACT INFORMATION
+
+For questions about this Agreement, please contact:
+Email: biuro.monoly@gmail.com
+Last Updated: November 2024
