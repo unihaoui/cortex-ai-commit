@@ -1,6 +1,6 @@
 <img src="assets/thumb.svg" width="100%" alt="Unihaoui Cortex AI Commit IntelliJ Platform Plugin Thumb">
 
-## Unihao Cortex AI Commit | Claude powered - Plugin for IntelliJ based IDEs
+## Unihaoui Cortex AI Commit | Claude powered - Plugin for IntelliJ based IDEs
 ⚡ Optimized for complex tasks 🎯 Maximum performance 💪 Recommended for advanced use cases 📊 Excellent efficiency 💰 Cost-effective ⚡ Fast response time
 
 <p>Cortex AI Commit is a powerful IntelliJ plugin that revolutionizes your Git commit process using Claude AI. Never struggle with writing commit messages again!</p>
